@@ -2,9 +2,9 @@ package api
 
 import (
 	"encoding/json"
+	"fc-gin/pkg/conf"
+	"fc-gin/pkg/serializer"
 	"fmt"
-	"go_fc/pkg/conf"
-	"go_fc/pkg/serializer"
 
 	validator "github.com/go-playground/validator/v10"
 )

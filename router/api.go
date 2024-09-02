@@ -1,8 +1,8 @@
 package router
 
 import (
+	api "fc-gin/controller"
 	"github.com/gin-gonic/gin"
-	api "go_fc/controller"
 )
 
 // NewRouter 路由配置

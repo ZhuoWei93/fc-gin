@@ -1,7 +1,7 @@
 package model
 
 import (
-	"go_fc/pkg/util"
+	"fc-gin/pkg/util"
 	"log"
 	"os"
 	"time"

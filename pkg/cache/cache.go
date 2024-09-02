@@ -2,8 +2,8 @@ package cache
 
 import (
 	"context"
+	"fc-gin/pkg/util"
 	"github.com/redis/go-redis/v9"
-	"go_fc/pkg/util"
 	"os"
 	"strconv"
 )

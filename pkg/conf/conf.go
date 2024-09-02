@@ -1,9 +1,9 @@
 package conf
 
 import (
-	"go_fc/model"
-	"go_fc/pkg/cache"
-	"go_fc/pkg/util"
+	"fc-gin/model"
+	"fc-gin/pkg/cache"
+	"fc-gin/pkg/util"
 	"os"
 
 	"github.com/joho/godotenv"

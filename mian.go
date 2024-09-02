@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go_fc/pkg/conf"
-	"go_fc/router"
+	"fc-gin/pkg/conf"
+	"fc-gin/router"
 	"os"
 
 	"github.com/gin-gonic/gin"
